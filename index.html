@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f1f1ed">
+  <meta name="description" content="Claire 的个人唱片收藏。关于我、我的作品、我的世界。做一点东西，也收藏一点日常。">
+  <title>Claire — 做一点东西，也收藏一点日常</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip-link" href="#entries">跳到唱片入口</a>
+  <header class="masthead">
+    <a class="wordmark" href="./" aria-label="Claire 首页">CLAIRE<span class="asterisk" aria-hidden="true">✳</span></a>
+    <span class="archive-label">A SMALL PERSONAL COLLECTION</span>
+    <nav aria-label="个人内容" id="entries">
+      <button class="nav-entry" data-entry="0"><span>01</span> 关于我</button>
+      <button class="nav-entry" data-entry="1"><span>02</span> 我的作品</button>
+      <button class="nav-entry" data-entry="2"><span>03</span> 我的世界</button>
+    </nav>
+  </header>
+
+  <main id="home">
+    <section class="hero" aria-label="Claire 的三维唱片收藏">
+      <div class="intro-copy"><p class="eyebrow">HELLO, THIS IS CLAIRE.</p><h1>做一点东西，<br>也收藏一点日常<span class="full-stop">。</span></h1></div>
+      <div id="stage" class="stage">
+        <img class="scene-fallback" src="./assets/hero.jpg" alt="银色翻盖播放器与关于我、作品、世界三个唱片夹页" width="800" height="450">
+        <canvas id="scene" aria-hidden="true"></canvas>
+        <div id="scene-targets" class="scene-targets">
+          <button class="scene-entry" data-entry="0" aria-label="打开关于我"><span class="sr-only">关于我</span></button>
+          <button class="scene-entry" data-entry="1" aria-label="打开我的作品"><span class="sr-only">我的作品</span></button>
+          <button class="scene-entry" data-entry="2" aria-label="打开我的世界"><span class="sr-only">我的世界</span></button>
+        </div>
+        <div class="label-loading" id="loading" role="status" aria-label="唱片场景加载中">
+          <div class="loading-label"><div class="loading-label-art">
+            <img src="./assets/loading-label.svg" alt="" width="1000" height="1000">
+            <svg class="loading-ring" viewBox="0 0 1000 1000" aria-hidden="true"><rect class="loading-ring-track" x="125" y="352" width="750" height="298" rx="149"/><rect class="loading-ring-progress" x="125" y="352" width="750" height="298" rx="149" pathLength="1"/></svg>
+          </div></div>
+        </div>
+      </div>
+      <div class="scene-note"><span class="note-mark" aria-hidden="true">↗</span><p id="scene-hint">移过去看看，点一下打开。</p></div>
+      <button class="skip-opening" id="skip-opening">跳过开场 <span aria-hidden="true">↗</span></button>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="audio-control">
+      <button class="sound-button" id="sound-toggle" aria-label="播放内置歌单"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M8 15V5l8-2v10M8 7l8-2"/><ellipse cx="5.5" cy="15" rx="2.5" ry="2"/><ellipse cx="13.5" cy="13" rx="2.5" ry="2"/></svg><span id="sound-label">播放音乐</span></button>
+      <span class="audio-status" id="audio-status">声音未开启</span>
+      <button class="change-track" id="change-track" hidden>下一首</button>
+      <audio id="audio" preload="none"></audio>
+    </div>
+    <div class="current-record"><span class="status-dot"></span><span id="current-record">当前内容：关于我</span></div>
+    <button class="replay" id="replay-opening">再看一次开场 <span aria-hidden="true">↺</span></button>
+    <p class="footer-sign">TAKE YOUR TIME. <span>© CLAIRE</span></p>
+  </footer>
+
+  <dialog id="content-dialog" aria-labelledby="panel-title">
+    <div class="panel-top"><span class="panel-kicker" id="panel-kicker">01 / ABOUT</span><button id="close-panel" class="close-panel">回到唱片 <span aria-hidden="true">×</span></button></div>
+    <div id="panel-content"></div>
+    <div class="panel-bottom"><span>CLAIRE / PERSONAL COLLECTION</span><span id="panel-number">01 — 03</span></div>
+  </dialog>
+  <div class="sr-only" id="announcement" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">请开启 JavaScript，体验开场、唱片悬停与内容浏览。</p></noscript>
+  <script src="./app.js" defer></script>
+</body>
+</html>
+

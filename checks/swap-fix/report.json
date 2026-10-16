@@ -1,0 +1,38 @@
+[
+  {
+    "from": 0,
+    "to": 1,
+    "frames": 354,
+    "maxLowOffset": 0.0026289453496117702
+  },
+  {
+    "from": 1,
+    "to": 0,
+    "frames": 356,
+    "maxLowOffset": 0.0020756594763224655
+  },
+  {
+    "from": 0,
+    "to": 2,
+    "frames": 356,
+    "maxLowOffset": 0.002790682620990653
+  },
+  {
+    "from": 2,
+    "to": 1,
+    "frames": 356,
+    "maxLowOffset": 0.002802731201848943
+  },
+  {
+    "from": 1,
+    "to": 2,
+    "frames": 356,
+    "maxLowOffset": 0.0035685348208805926
+  },
+  {
+    "from": 2,
+    "to": 0,
+    "frames": 356,
+    "maxLowOffset": 0.0020976087612540983
+  }
+]

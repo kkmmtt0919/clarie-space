@@ -1,0 +1,21 @@
+{
+  "updated": [
+    "README.md",
+    "models\\modern-v03\\README.md",
+    "models\\modern-v03\\model-manifest.json",
+    "models\\modern-v03\\tools\\bootstrap_live.py",
+    "models\\modern-v03\\tools\\backup_live_session.py",
+    "docs\\handoff\\当前方案.md",
+    "docs\\handoff\\现代电子方案-v2\\交互与文字精进方案-v3.md",
+    "docs\\handoff\\现代电子方案-v2\\设计说明与生成提示词.md"
+  ],
+  "mapping": {
+    "D:/projects/claire-html-v03": "D:/projects/claire",
+    "D:/projects/claire-vinyl-preview": "D:/projects/claire/models",
+    "D:/projects/claire-homepage-handoff": "D:/projects/claire/docs/handoff",
+    "D:/projects/review-20261006-claire": "D:/projects/claire/reviews/2026-10-06",
+    "D:/projects/generated-images": "D:/projects/claire/references/legacy-generated",
+    "D:/projects/skill/emil-design-eng": "D:/projects/claire/skills/emil-design-eng"
+  },
+  "historical_archives": "models/archives, models/modern-v02 and inherited-v02 left unchanged"
+}

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-06",
+  "checked": {
+    "desktop": "1440×960: scene below introductory text, silver player, readable entry headings, optical disc highlights, footer controls",
+    "mobile": "390×844: no horizontal overflow, single-tap navigation, direct hero view, visible audio and return controls",
+    "panels": "About, projects and world; editorial layout, local printed art, title and close control",
+    "swaps": "Outgoing disc above front of player, three unique discs remain visible",
+    "standalone": "file:// page and embedded panel artwork inspected"
+  },
+  "scope": "Rendered browser screenshots sampled visually; automated interaction checks recorded separately.",
+  "screenshot_dir": "checks",
+  "content_limit": "Projects are a disclosed empty state; no real work or audio track has been invented"
+}

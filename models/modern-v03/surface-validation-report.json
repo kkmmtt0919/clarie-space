@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "frames_checked": 386,
+  "issues": [],
+  "method": "evaluated triangle BVH surface overlap; own sleeve contacts excluded"
+}

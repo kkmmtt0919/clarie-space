@@ -1,0 +1,7 @@
+00:05.078  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+Claire modern-v03 motion panel registered. Hover preview is optional.
+49:53.953  operator         | Saved "claire-modern-v03.blend"
+49:55.500  blend            | Saved session recovery to "C:\Users\Lenovo\AppData\Local\Temp\quit.blend"
+
+Blender quit
+Error: Not freed memory blocks: 525, total unfreed memory 0.038147 MB

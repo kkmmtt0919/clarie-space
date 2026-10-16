@@ -1,0 +1,29 @@
+{
+  "name": "claire-html-v03",
+  "version": "1.0.0",
+  "description": "Claire V3 — standalone HTML and interactive 3D personal collection",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/app.js --bundle --minify --sourcemap --outfile=app.js && node tools/pack-standalone.cjs",
+    "start": "node server.cjs",
+    "test": "node tools/browser-check.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "@react-three/rapier": "^2.2.0",
+    "esbuild": "^0.28.2",
+    "meshline": "^3.3.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
+  "private": true
+}

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "opening_frames_checked": 127,
+  "opening_crop_issues": [],
+  "monotonic_lid": true,
+  "camera_settles_at_127": true,
+  "hover_frames_checked": 256,
+  "playing_disc_fixed": true,
+  "spare_disc_follows": true,
+  "peak_scale": 1.0317060947418213,
+  "minimum_root_plane_gap": 0.13180801272392273,
+  "swap_frames_checked": 131,
+  "swap_order_and_endpoint": true,
+  "v2_opens": true
+}

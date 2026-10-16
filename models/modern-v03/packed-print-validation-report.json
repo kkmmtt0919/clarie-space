@@ -1,0 +1,46 @@
+[
+  {
+    "name": "cover-about.png",
+    "matches": true
+  },
+  {
+    "name": "cover-projects.png",
+    "matches": true
+  },
+  {
+    "name": "cover-world.png",
+    "matches": true
+  },
+  {
+    "name": "disc-about.png",
+    "matches": true
+  },
+  {
+    "name": "disc-projects.png",
+    "matches": true
+  },
+  {
+    "name": "disc-world.png",
+    "matches": true
+  },
+  {
+    "name": "lid-label.png",
+    "matches": true
+  },
+  {
+    "name": "playing-badge.png",
+    "matches": true
+  },
+  {
+    "name": "title-about.png",
+    "matches": true
+  },
+  {
+    "name": "title-projects.png",
+    "matches": true
+  },
+  {
+    "name": "title-world.png",
+    "matches": true
+  }
+]

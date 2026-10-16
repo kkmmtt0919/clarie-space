@@ -1,0 +1,33 @@
+{
+  "version": "5.2.2 LTS",
+  "blend": "D:\\projects\\claire-vinyl-preview\\modern-v02\\claire-modern-v02.blend",
+  "objects": 97,
+  "disc_roots": [
+    "DISC_01_ABOUT",
+    "DISC_02_PROJECTS",
+    "DISC_03_WORLD"
+  ],
+  "card_roots": [
+    "CARD_01_ABOUT",
+    "CARD_02_PROJECTS",
+    "CARD_03_WORLD"
+  ],
+  "packed_images": 11,
+  "timeline": {
+    "01 CLOSED TOP": 1,
+    "02 OPEN HERO / IDLE": 135,
+    "03 PROJECTS HOVER": 163,
+    "04 COMPACT RESET": 204,
+    "05 RETURN ABOUT": 247,
+    "06 INSERT PROJECTS": 288,
+    "07 PROJECTS PLAYING": 350
+  },
+  "renderer": "GPU",
+  "player_shell_dimensions": [
+    3.53,
+    2.94,
+    0.38
+  ],
+  "web_hover_implemented": false,
+  "header_design": "single continuous paper sheet with printed upper header"
+}

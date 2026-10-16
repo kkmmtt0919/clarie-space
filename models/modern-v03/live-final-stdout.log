@@ -1,0 +1,3 @@
+00:00.281  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+00:02.781  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+Claire modern-v03 motion panel registered. Hover preview is optional.

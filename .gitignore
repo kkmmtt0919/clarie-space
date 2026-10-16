@@ -1,0 +1,17 @@
+# Installed dependencies and local caches
+node_modules/
+.npm-cache/
+
+# Temporary review frames and local editor/OS files
+/tmp-video-review/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,10 @@
+{
+  "frames": [
+    135
+  ],
+  "fps": 15,
+  "engine": "CYCLES",
+  "device": "GPU",
+  "samples": 6,
+  "elapsed_seconds": 1.7921513999972376
+}

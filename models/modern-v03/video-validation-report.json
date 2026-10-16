@@ -1,0 +1,16 @@
+{
+  "opening": {
+    "path": "D:\\projects\\claire-vinyl-preview\\modern-v03\\previews\\opening-v3.mp4",
+    "frames": 64,
+    "expected_frames": 64,
+    "bytes": 391320,
+    "decoded": true
+  },
+  "hover": {
+    "path": "D:\\projects\\claire-vinyl-preview\\modern-v03\\previews\\hover-v3.mp4",
+    "frames": 98,
+    "expected_frames": 98,
+    "bytes": 287259,
+    "decoded": true
+  }
+}

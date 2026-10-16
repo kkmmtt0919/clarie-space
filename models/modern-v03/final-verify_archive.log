@@ -1,0 +1,6 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.657  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+{"passed": true, "files": 61, "bytes": 20543983, "archive": "D:\\projects\\claire-vinyl-preview\\archives\\modern-v02-20261005-170425", "v2_source_unchanged": true, "sha256_verified": true}
+
+Blender quit

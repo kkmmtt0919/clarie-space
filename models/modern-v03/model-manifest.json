@@ -1,0 +1,36 @@
+{
+  "version": "5.2.2 LTS",
+  "blend": "D:\\projects\\claire\\models\\modern-v03\\claire-modern-v03.blend",
+  "source": "D:\\projects\\claire\\models\\modern-v02\\claire-modern-v02.blend",
+  "objects": 97,
+  "disc_roots": [
+    "DISC_01_ABOUT",
+    "DISC_02_PROJECTS",
+    "DISC_03_WORLD"
+  ],
+  "card_roots": [
+    "CARD_01_ABOUT",
+    "CARD_02_PROJECTS",
+    "CARD_03_WORLD"
+  ],
+  "timeline": {
+    "Closed / Top": 1,
+    "Hero / Idle": 135,
+    "About / Spring Hover": 163,
+    "Projects / Spring Hover": 223,
+    "World / Spring Hover": 283,
+    "Compact Reset": 374,
+    "Return About": 417,
+    "Insert Projects": 458,
+    "Projects Playing": 520,
+    "Opening settled / 4.2s": 127
+  },
+  "opening_seconds": 4.2,
+  "spring": {
+    "mass": 1,
+    "stiffness": 500,
+    "damping": 30,
+    "return_damping": 40
+  },
+  "web_hover_implemented": false
+}

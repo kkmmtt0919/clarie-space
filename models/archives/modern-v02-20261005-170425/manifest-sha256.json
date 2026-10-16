@@ -1,0 +1,307 @@
+[
+  {
+    "path": "attached-headers-report.json",
+    "bytes": 545,
+    "sha256": "FCDB32282BBC88A2B0ED69A51D8BBEF1C7E7BC3427C9DE6ECF3C3D43502C8A04"
+  },
+  {
+    "path": "blender-claire-panel.png",
+    "bytes": 2197606,
+    "sha256": "59AFFA67503D1CDBF703186864A89EBFE8061BC8366ABD2825CBF80A27330E41"
+  },
+  {
+    "path": "blender-console-check.png",
+    "bytes": 231918,
+    "sha256": "BA387CDB65D28ED2DA0718B8189AB3DE7C632C29199B73A07737AF41CFBD1AD3"
+  },
+  {
+    "path": "blender-live-check.png",
+    "bytes": 2208710,
+    "sha256": "62FF20B5CC97C9FCA157BA205B26A3CFA1A72D1D392F9D8298905E0C28606557"
+  },
+  {
+    "path": "blender-probe-check.png",
+    "bytes": 1292839,
+    "sha256": "CE52A4F1451FCF893245140A2B399D0C4075A4EFC3A02E4135419A4DDB6FFD34"
+  },
+  {
+    "path": "build_modern_scene.py",
+    "bytes": 27940,
+    "sha256": "590CD123D8CA3E63546B4A6EFDCA8CB3DC76B75BE1D1788F8994E7463B99CD61"
+  },
+  {
+    "path": "claire_preview_runtime.py",
+    "bytes": 16493,
+    "sha256": "09F3EEA7F11FEA6F1036B1CFA124FBE0DEFF1847B98BE1A6EAC94A6405F2D2D1"
+  },
+  {
+    "path": "claire-modern-v02.blend",
+    "bytes": 2027509,
+    "sha256": "D5F058E2E97BE53B30731B43C5ED5EC718607819A98536534093E5387C8B9282"
+  },
+  {
+    "path": "claire-modern-v02.blend1",
+    "bytes": 2030261,
+    "sha256": "601E170B9EABDD818C62B442FA6477DCCD9582008E4783BC351981DB2090AC05"
+  },
+  {
+    "path": "hero-hover-projects.png",
+    "bytes": 1574183,
+    "sha256": "71640713BD86BC9B407D737DDDADB622E61B5353A72EEFBF3B9C7E1D355DA815"
+  },
+  {
+    "path": "hero-idle.png",
+    "bytes": 1582350,
+    "sha256": "57F9B1049D4CB8DA82DD254B881E9AEB1933816B25ED25120587637D393DDB62"
+  },
+  {
+    "path": "live-preview-ready.json",
+    "bytes": 155,
+    "sha256": "49A6CB38AAF2FC36965BE48469FE2235F75C9F4F5E4A4727857F6A4DBF88A076"
+  },
+  {
+    "path": "live-window-status-1791184924920393700.json",
+    "bytes": 150,
+    "sha256": "E1143409BF3592BAE3A3226C34FE0D942D65468C075DAFC40365E9940887297C"
+  },
+  {
+    "path": "model-manifest.json",
+    "bytes": 786,
+    "sha256": "1C08ED4FD752F360C1D7194DD155E4B4ED60787D71B17C2D49D86FF4540263D0"
+  },
+  {
+    "path": "opening-closed-top.png",
+    "bytes": 1483028,
+    "sha256": "B4D72CF0754439A6ADA0595675975814D00E36BC41F934E58D00C316B4C9EDA3"
+  },
+  {
+    "path": "probe_blender.py",
+    "bytes": 599,
+    "sha256": "A62F909520D90835753758FA7D4F1CAFE5F6191EA0BBAC5960FF2BDDCC132474"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6387,
+    "sha256": "3ECAA93172FFAF219AB5B6088410745FA8B8C82982F76B1A6F15CFFAC99B3F38"
+  },
+  {
+    "path": "validation-report.json",
+    "bytes": 300,
+    "sha256": "2E188BA8923DC26080804B23EB0DFE55208E46473DEC7996290195AC6AD62E99"
+  },
+  {
+    "path": "assets\\asset-review.png",
+    "bytes": 307382,
+    "sha256": "0D3F4E86A4ABCEE2BC85DA2B901BEDF6EDE318582F360840D63C7C3A8C0ADD49"
+  },
+  {
+    "path": "assets\\build_labels.py",
+    "bytes": 1974,
+    "sha256": "E46D9852DC35D8F4E77A4698D0C61020BF4F48D19A4C18AE87F68993D8542D50"
+  },
+  {
+    "path": "assets\\build_print_assets.py",
+    "bytes": 14716,
+    "sha256": "A01EC9BCBFF4CB34ECBE86AC1FC6614D517CFFC8F9AA8F823414CC380FEFE00E"
+  },
+  {
+    "path": "assets\\build_titles.py",
+    "bytes": 1231,
+    "sha256": "B74C8472D38D9CF1A9C2508F29269F66AA11DCB93C6240BC2E795F948D51E55B"
+  },
+  {
+    "path": "assets\\cover-about.png",
+    "bytes": 207167,
+    "sha256": "3462947D8E4F7AEDAB9FC4CD77587F309C6836ACE6B13C0FFE1D9F519B984A08"
+  },
+  {
+    "path": "assets\\cover-about.svg",
+    "bytes": 9591,
+    "sha256": "0D6E9490E055E1ECE6380FC52CBF45A2B7F944626C3C0F987F687C49E88F2F17"
+  },
+  {
+    "path": "assets\\cover-projects.png",
+    "bytes": 177689,
+    "sha256": "72F10715A421710216DD1AF26155897F3B95EF1FD8813F56432B1B5464CCEB89"
+  },
+  {
+    "path": "assets\\cover-projects.svg",
+    "bytes": 5335,
+    "sha256": "21334E2B003C808AD127ED720B1AF6FD26BBF97A5462FD57433B6FC39F64DF19"
+  },
+  {
+    "path": "assets\\cover-world.png",
+    "bytes": 207457,
+    "sha256": "96477AA85F0AC154F06938CD254753C4588474B5D42090A7802F3D006D5C7AE9"
+  },
+  {
+    "path": "assets\\cover-world.svg",
+    "bytes": 23717,
+    "sha256": "D2D8F3EB76D15E4E9D3E5C5CAD2E862C430D7C586936AC6A9E8C402989B1515F"
+  },
+  {
+    "path": "assets\\disc-about.png",
+    "bytes": 195955,
+    "sha256": "C029FE1C4F43B9ECF1A4A30A64A81DF2D85D07EEE313A06AA2238B346D942107"
+  },
+  {
+    "path": "assets\\disc-about.svg",
+    "bytes": 26283,
+    "sha256": "AF9238ADC48C89DB9A5E6C6FD0893C82BD5FD01BD993FD3D76AD86130F14BC31"
+  },
+  {
+    "path": "assets\\disc-projects.png",
+    "bytes": 171301,
+    "sha256": "B91CC0B46AF6B0033B051CCA6058F567D00AD9D23531B43C7B38574252634DA6"
+  },
+  {
+    "path": "assets\\disc-projects.svg",
+    "bytes": 27043,
+    "sha256": "6D2B2A07A5E25117BF6C111E3536ED19F9FD25B40019A104CB935B62524F2157"
+  },
+  {
+    "path": "assets\\disc-world.png",
+    "bytes": 165954,
+    "sha256": "DCE59F97C2483022203959EE61BABBC2312A8926E002DF4F656EE95BEE68A162"
+  },
+  {
+    "path": "assets\\disc-world.svg",
+    "bytes": 43896,
+    "sha256": "BF9D139E1082A7F49B8EFFB305A62BE80D069061C196B2ABCD45AB164A4E2603"
+  },
+  {
+    "path": "assets\\lid-label.png",
+    "bytes": 55823,
+    "sha256": "DE6CEDCDDD64C9613C417F47CAF92D757A71254D96BA99BC7C0204D09257B2CE"
+  },
+  {
+    "path": "assets\\lid-label.svg",
+    "bytes": 1297,
+    "sha256": "408E6527BD65748DD9C6284BA0F1F906F77308F4FD036DBAE38255CF47AFB9FC"
+  },
+  {
+    "path": "assets\\playing-badge.png",
+    "bytes": 15803,
+    "sha256": "A763C9EBF1E36EFEB810B9A086C7AC114F93E9ED8E4F2B0E2C04B4BD649A575E"
+  },
+  {
+    "path": "assets\\playing-badge.svg",
+    "bytes": 363,
+    "sha256": "16DC01DFBFBB83E09BB16C15F4ACE60118161AE0CE741905A0167BE5D5AC5D2A"
+  },
+  {
+    "path": "assets\\README.md",
+    "bytes": 2980,
+    "sha256": "04BD98B162D3BE5561B433A5F2EEB918313DEADF0FBE0FB421F763973BCC12DD"
+  },
+  {
+    "path": "assets\\title-about.png",
+    "bytes": 32518,
+    "sha256": "17C9D263BBE28EC5E7A66A6DEA7C569C15CAEAA0B8998723603A802B87F9EFBB"
+  },
+  {
+    "path": "assets\\title-about.svg",
+    "bytes": 306,
+    "sha256": "0DC77400C9E2C465E3E26A211504AD41A3AA79328A1E145023A9FE2F2555387C"
+  },
+  {
+    "path": "assets\\title-projects.png",
+    "bytes": 25735,
+    "sha256": "6F34EB2122556AFF98621ECC73FAD772DB38F8C4440B66A98314BA1CED76283B"
+  },
+  {
+    "path": "assets\\title-projects.svg",
+    "bytes": 298,
+    "sha256": "6192ADC11532625D029D75939915051FB6D1BCB47D03EA2C2FFA38E6170DA5AD"
+  },
+  {
+    "path": "assets\\title-world.png",
+    "bytes": 27028,
+    "sha256": "C0E7A7764D480E27BD183A12D61EFA5922B38090FB50AAE7F59F2415275922C0"
+  },
+  {
+    "path": "assets\\title-world.svg",
+    "bytes": 298,
+    "sha256": "C69B67E6A2068BAC5BDC4B08F4D35665D6E12F0D7CCF18F437FDDB9DB70F579A"
+  },
+  {
+    "path": "assets\\__pycache__\\build_print_assets.cpython-313.pyc",
+    "bytes": 32629,
+    "sha256": "F5C73121AE15A9FF96E8CAB4389D328D95F83777ED26A9B427FE9A4719146E01"
+  },
+  {
+    "path": "session-backups\\claire-modern-v02-before-header-fix-20261005T075328746688Z.blend",
+    "bytes": 2030195,
+    "sha256": "87BBA6F6DED69B668F4752137D252011CFA390EFADCB2179485ECA2D3CA4A5A2"
+  },
+  {
+    "path": "session-backups\\claire-modern-v02-before-modern-20261005T072202369690Z.blend",
+    "bytes": 1921869,
+    "sha256": "6C42BDE4392ACDAE407E7136FA64E9AE46670E5BCA49238FE1AC1A0559E8DE71"
+  },
+  {
+    "path": "session-backups\\session-switch-20261005T072202369690Z.json",
+    "bytes": 377,
+    "sha256": "84C9BF01934DD0239A4E15238C4EC4F7DDC04877A00A7E4FED6F7BE8812FADFB"
+  },
+  {
+    "path": "tools\\attach_card_headers.py",
+    "bytes": 2628,
+    "sha256": "8F8EF1C485B5DEEE3D490BB87D29D0C705B5CA8249E23B69E5DFEB3A09565606"
+  },
+  {
+    "path": "tools\\blender_window_probe.py",
+    "bytes": 1822,
+    "sha256": "41399AF493F67A8DBBA19B115C435AA82C426358D8104D5C08306DC1FE8BA918"
+  },
+  {
+    "path": "tools\\finalize_live_view.py",
+    "bytes": 1132,
+    "sha256": "6F3EA5ECF30E7510E949EECE8EA560A304564452EED55213E6C416EE7DCA3D5F"
+  },
+  {
+    "path": "tools\\load_ready_model.py",
+    "bytes": 9667,
+    "sha256": "3C507BBDF2BB650E645F3DABCA52F47053B6479665581F409713A1FA3797621A"
+  },
+  {
+    "path": "tools\\protected_open_in_blender.py",
+    "bytes": 2507,
+    "sha256": "1228C4317181DB640E3D0369D20A3D268CAD44C3B9BFEA54B1A97F57266C3F75"
+  },
+  {
+    "path": "tools\\render_updated_headers.py",
+    "bytes": 1595,
+    "sha256": "7534918DF4B7E81F2B5ACB043783075E34403669AD86D08410AD8C4E0CA3767E"
+  },
+  {
+    "path": "tools\\validate_model.py",
+    "bytes": 2472,
+    "sha256": "F31E13B9D90BE48E1C4F29F286ECFDB05AAB7A54CFB5E00538599F21D303FAF3"
+  },
+  {
+    "path": "tools\\validate_preview_runtime.py",
+    "bytes": 4977,
+    "sha256": "31AA70DD3641CF1783A81BFB02C99024A2A2FD1C0B2FA3996AB01F385A35F388"
+  },
+  {
+    "path": "tools\\__pycache__\\load_ready_model.cpython-313.pyc",
+    "bytes": 10952,
+    "sha256": "A40489CC1AD9A6C36BFEDAA81E36E985A81472F03C4B3B1367F54B0298AFE902"
+  },
+  {
+    "path": "tools\\__pycache__\\validate_model.cpython-313.pyc",
+    "bytes": 6614,
+    "sha256": "A707E8C0748F5249732507BE5C2C9B4CD3C90362292D1723E93F3F4282B22F73"
+  },
+  {
+    "path": "__pycache__\\build_modern_scene.cpython-313.pyc",
+    "bytes": 54420,
+    "sha256": "63215C6481C327ED4DAD45C0060ABE352BCC0AEC5EF728B11F0E80BEA6386C49"
+  },
+  {
+    "path": "__pycache__\\claire_preview_runtime.cpython-313.pyc",
+    "bytes": 29228,
+    "sha256": "949BAE28BEEBFB840DC855BB05E11351E2535250D8ECEB98993B8DAB750C49AD"
+  }
+]

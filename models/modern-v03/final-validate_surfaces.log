@@ -1,0 +1,6 @@
+00:00.047  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.641  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+SURFACE_CHECK {"passed": true, "frames_checked": 386, "issues": [], "method": "evaluated triangle BVH surface overlap; own sleeve contacts excluded"}
+
+Blender quit

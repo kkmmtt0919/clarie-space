@@ -1,0 +1,33 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.687  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+00:00.812  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:02.625  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0000-f001.png'
+PREVIEW_FRAME keys 1 13 1
+00:04.187  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0001-f020.png'
+PREVIEW_FRAME keys 2 13 20
+00:05.750  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0002-f045.png'
+PREVIEW_FRAME keys 3 13 45
+00:07.390  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0003-f070.png'
+PREVIEW_FRAME keys 4 13 70
+00:09.062  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0004-f090.png'
+PREVIEW_FRAME keys 5 13 90
+00:10.703  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0005-f127.png'
+PREVIEW_FRAME keys 6 13 127
+00:12.328  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0006-f135.png'
+PREVIEW_FRAME keys 7 13 135
+00:13.984  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0007-f163.png'
+PREVIEW_FRAME keys 8 13 163
+00:15.640  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0008-f223.png'
+PREVIEW_FRAME keys 9 13 223
+00:17.297  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0009-f283.png'
+PREVIEW_FRAME keys 10 13 283
+00:18.953  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0010-f417.png'
+PREVIEW_FRAME keys 11 13 417
+00:20.640  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0011-f458.png'
+PREVIEW_FRAME keys 12 13 458
+00:22.343  render           | Saved: 'D:\projects\claire-vinyl-preview\modern-v03\previews\keys\0012-f520.png'
+PREVIEW_FRAME keys 13 13 520
+PREVIEW_DONE keys
+
+Blender quit

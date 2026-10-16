@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "disc_count": 3,
+  "cards": 3,
+  "opening_camera_fits": true,
+  "lid_opens": true,
+  "hover_keeps_active_disc": true,
+  "hover_front_depth": true,
+  "card_planes_separated": true,
+  "swap_projects_in_player": true,
+  "images_packed": true,
+  "runtime_packed": true
+}

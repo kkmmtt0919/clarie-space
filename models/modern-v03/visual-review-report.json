@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-05",
+  "model": "claire-modern-v03.blend",
+  "blender_pid": 30284,
+  "structural_checks": "Separate JSON reports; all passed",
+  "visual_checks": {
+    "native_opening": "Play Opening completed at frame 135; screenshots inspected",
+    "native_hover": "About, projects and world panel states individually observed; spare discs follow; playing disc stays in player",
+    "rapid_switch": "Three positions crossed at 50 ms intervals, then moved away and escaped",
+    "restoration": "Returned screenshot and ready frame 135 inspected",
+    "rendered_opening": "Final 12-sample contact sheet inspected across frames 1–127; continuous framing and settle",
+    "rendered_hover": "Three baked hover states and return inspected",
+    "rendered_swap": "Frames 417, 458 and 520 inspected; full discs visible, no duplicate discs, entry headers remain readable",
+    "packed_prints": "All 11 packed image SHA-256 values match V3 PNG assets"
+  },
+  "limits": "Visual review samples and native interaction; frame-by-frame structural checks recorded separately. Web, touch and audio not implemented."
+}

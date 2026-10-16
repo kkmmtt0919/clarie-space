@@ -1,0 +1,192 @@
+00:00.344  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:06.344  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+D:\projects\claire-html-v03\tools\export_scene.py:47: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not material.use_nodes:continue
+INFO Draco is available, use library at D:\Steam\steamapps\common\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\Steam\steamapps\common\Blender\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+13:30:40 | INFO: Starting glTF 2.0 export
+13:30:40 | INFO: Extracting primitive: Cube.020
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Playing marker / about
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Printed about insert front
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Readable top title about
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.024
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.022
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.023
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.025
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Printed projects insert front
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Readable top title projects
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.029
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.027
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.028
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.030
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Printed world insert front
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Readable top title world
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.036
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.034
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.035
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD about clear central ring
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD about printed optical face
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD about solid optical substrate
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD projects clear central ring
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD projects printed optical face
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD projects solid optical substrate
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD world clear central ring
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD world printed optical face
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CD world solid optical substrate
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.009
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.013
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.016
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.018
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.002
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.012
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Compartment raised circular rim
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.008
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.009
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.010
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.011
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.013
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.014
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.016
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: CLAIRE  /  PORTABLE ARCHIVE
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Closed lid outer name label
+13:30:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.015
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.017
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Inner lid printed name label
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Inner matte silver lid panel
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Lid graphite seal
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Lid outer silver shell
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.004
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.005
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.006
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.007
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Lower graphite shell
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Main matte silver shell
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.019
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.011
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.012
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.010
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Play triangle
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.017
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.001
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Screw notch
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Screw notch.001
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Screw notch.002
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Screw notch.003
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.001
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.002
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.003
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.004
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.005
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.006
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.007
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.008
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Skip triangle
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Skip triangle.001
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Skip triangle.002
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Skip triangle.003
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cylinder.003
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.014
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Cube.015
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Upper shell with disc recess
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Extracting primitive: Infinite cove geometry
+13:30:40 | INFO: Primitives created: 1
+13:30:40 | INFO: Finished glTF 2.0 export in 0.4556879997253418 s
+
+WEB_EXPORTED D:\projects\claire-html-v03\assets\claire-v3.glb
+
+Blender quit

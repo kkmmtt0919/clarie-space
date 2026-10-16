@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "desktop: order, labels, detail links, keyboard focus, images, overflow, reopen",
+    "mobile: order, labels, detail links, keyboard focus, images, overflow, reopen",
+    "offline: order, labels, detail links, keyboard focus, images, overflow, reopen"
+  ],
+  "errors": []
+}

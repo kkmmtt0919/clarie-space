@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "desktop: fan, preview, navigation, focus, images, overflow, reopen",
+    "mobile: fan, preview, navigation, focus, images, overflow, reopen",
+    "reduced: fan, preview, navigation, focus, images, overflow, reopen",
+    "offline: fan, preview, navigation, focus, images, overflow, reopen"
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+00:00.062  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.640  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+Claire modern-v03 motion panel registered. Hover preview is optional.
+Claire modern-v03 motion panel registered. Hover preview is optional.
+Claire modern-v03 motion panel registered. Hover preview is optional.
+CLAIRE_RUNTIME_VALIDATED {"markers": [1, 135, 163, 223, 283, 374, 417, 458, 520], "selectable_cards": ["about", "projects", "world"], "disc_count": 3, "spring_peak_progress": 1.058271487176565, "frame_rate_independent": true, "velocity_preserved_on_retarget": true, "rapid_switches": true, "long_stall_stable": true, "session_restored": true, "new_objects": 0}
+
+Blender quit

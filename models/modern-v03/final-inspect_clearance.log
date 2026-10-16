@@ -1,0 +1,8 @@
+00:00.063  reports          | WARNING Unable to open 'C:\Users\Lenovo\AppData\Roaming\Blender Foundation\Blender\5.2\config\userpref.blend': Permission denied
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+00:00.625  blend            | Read blend: "D:\projects\claire-vinyl-preview\modern-v03\claire-modern-v03.blend"
+CARD_INTERSECTIONS []
+CARD_HOMES [{"loc": [1.340000033378601, 1.5800000429153442, 2.7200000286102295], "rot": [0.0, 0.0, 0.41887903213500977], "scale": [1.0, 1.0, 1.0]}, {"loc": [2.7200000286102295, 2.049999952316284, 2.430000066757202], "rot": [0.0, 0.0, 0.41887903213500977], "scale": [1.0, 1.0, 1.0]}, {"loc": [4.110000133514404, 2.5199999809265137, 2.140000104904175], "rot": [0.0, 0.0, 0.41887903213500977], "scale": [1.0, 1.0, 1.0]}]
+HOVER_DIRECTION [0.29149243235588074, -0.8809159398078918, 0.37285280227661133]
+
+Blender quit
